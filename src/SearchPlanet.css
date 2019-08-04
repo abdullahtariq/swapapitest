@@ -1,0 +1,61 @@
+.wrap-login100.searchwrap-login100 .wrap-input100{
+  margin-bottom: 30px;
+}
+
+.planet-detail-container{
+  width: 100%;
+}
+
+.planet-detail-container p{
+  text-align: right;
+    font-size: 10px;
+    color: #EBD71C;
+}
+
+.wrap-login100.searchwrap-login100{
+  padding: 140px 90px 50px 85px;
+}
+.planet-list-wrap{
+  display: block;
+  width: 100%;
+  border: 1px solid;
+}
+
+.planet-headline h3 {
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    padding: 2%;
+}
+
+
+.planetName{
+  color: #ffe300;
+    text-align: left;
+    display: block;
+    clear: both;
+    width: 100%;
+    border-bottom: 1px solid;
+}
+.planetName span {
+    width: 50%;
+    display: inline-block;
+    padding: 2%;
+    border-right: 1px solid;
+}
+.planetName span:last-child, .planet-headline h3:last-child{
+  border-right: unset;
+}
+.planetName:last-child {
+    border-bottom: unset;
+}
+
+/* .size-1 {width: 400px;height: 400px;}
+.size-2 {width: 350px;height: 350px;}
+.size-3 {width: 300px;height: 300px;}
+.size-4 {width: 250px;height: 250px;}
+.size-5 {width: 200px;height: 200px;}
+.size-6 {width: 150px;height: 150px;}
+.size-7 {width: 100px;height: 100px;} */
